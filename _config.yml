@@ -1,0 +1,28 @@
+name: Valerie Wilson
+favicon: null
+layout_spectrum: 0.8542089490219951
+typography_spectrum: 0.8818982196971774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1415493490640074
+  lightness: 0.6159563190303743
+  saturation: 0.32192383031360805
+  rhythmicContrast: 0.5185681045986712
+purpose: []
